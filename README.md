@@ -1,5 +1,5 @@
 # AI Weather Planner 🌤️🤖
-July 2026 
+august 2026 
 
 AI Weather Planner is an intelligent weather assistant that combines real-time weather forecasting, predictive analytics, and AI-generated recommendations to help users plan their day.
 
